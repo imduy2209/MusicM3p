@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">musicM3p</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="song_title">Song Title</string>
+    <string name="song_lyrics">Song Lyrics</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="artist_name">Tên Ca sĩ</string>
+
+    <string name="song_title_1">Một vòng Việt Nam</string>
+    <string name="song_lyrics_1">Lời bài hát cho Một vòng Việt Nam</string>
+    <string name="artist_name_1">Tùng Dương</string>
+    <string name="song_title_2">Lao tâm khổ tứ</string>
+    <string name="song_lyrics_2">Lời bài hát cho Lao tâm khổ tứ</string>
+    <string name="artist_name_2">Thanh Hưng</string>
+</resources>
